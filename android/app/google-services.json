@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480758967625",
+    "firebase_url": "https://legit-check-6dcf8.firebaseio.com",
+    "project_id": "legit-check-6dcf8",
+    "storage_bucket": "legit-check-6dcf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480758967625:android:bd9d791759927ed5893e98",
+        "android_client_info": {
+          "package_name": "com.example.legit_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480758967625-bj8svpsmrqdeem6rhp5po66hb4ve4t9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.legit_check",
+            "certificate_hash": "c4ec9e83b45196d725d08c715bffc72d93c7c557"
+          }
+        },
+        {
+          "client_id": "480758967625-knsa96dna5isg98ie1n0646c7sb81pf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxGoDVgM8Rpid1M3_8gF6keN_2AeG0blo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480758967625-knsa96dna5isg98ie1n0646c7sb81pf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
